@@ -1,7 +1,7 @@
 
 # Angular CRUD Example working with JSON server
 
-# Use two terminals and run both as the same time
+# Use two Terminals and run both as the same time
 # Model: Product
 
 ## Run Angular project use:
